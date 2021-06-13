@@ -1,6 +1,10 @@
 body {
     background-color: white;
 }
+nav {
+    margin-left: 3%;
+
+}
 
 #Logo {
     display: block;
